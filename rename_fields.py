@@ -1,17 +1,11 @@
 # Field Rename dictionaries.
 
+# Fields are pulled from commercial_df
 commercial_renamer = { #Original Field : Desired Field
-<<<<<<< Updated upstream
-    "HS_CODE" : "",
-    "COMMODITY_DESC" : "",
-    "GEOGRAPHY_CODE" : "",
-    "GEOGRAPHY_DESC" : "",
-=======
     "HS_CODE" : "hs_code",
     "COMMODITY_DESC" : "commodity_desc",
     "GEOGRAPHY_CODE" : "country_code",
     "GEOGRAPHY_DESC" : "country_name",
->>>>>>> Stashed changes
     "ATTRIBUTE_DESC" : "",
     "UNIT_DESC" : "",
     "YEAR_ID" : "",
@@ -22,11 +16,12 @@ commercial_renamer = { #Original Field : Desired Field
     "FISH_TYPE" : "",
 }
 
+# Fields are pulled from commercial_df 
 country_renamer = {#Original Field : Desired Field
     "GEOGRAPHY_CODE" : "country_code",
     "GEOGRAPHY_DESC" : "country_name",
 
-
+# Fields are pulled from agg_temp_df
 temp_renamer = { #Original Field : Desired Field
     "country" : "country_name",
     "YEAR_ID" : "year_id",
