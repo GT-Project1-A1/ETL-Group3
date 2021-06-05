@@ -1,226 +1,226 @@
-,country_code,country_name
-0,1,World
-1,1010,Greenland
-2,1220,Canada
-3,1610,St Pierre and Miquelon
-4,2010,Mexico
-5,2050,Guatemala
-6,2080,Belize
-7,2110,El Salvador
-8,2150,Honduras
-9,2190,Nicaragua
-10,2230,Costa Rica
-11,2250,Panama
-12,2320,Bermuda
-13,2360,Bahamas
-14,2390,Cuba
-15,2410,Jamaica
-16,2430,Turks and Caicos Islands
-17,2440,Cayman Islands
-18,2450,Haiti
-19,2470,Dominican Republic
-20,2481,Anguilla
-21,2482,British Virgin Islands
-22,2483,St. Kitts-Nevis
-23,2484,Antigua & Barbuda
-24,2485,Montserrat
-25,2486,Dominica
-26,2487,St. Lucia
-27,2488,St. Vincent and The Grenadines
-28,2489,Grenada
-29,2720,Barbados
-30,2740,Trinidad and Tobago
-31,2771,Netherlands Antilles
-32,2774,Sint Marteen
-33,2777,Curaco
-34,2779,Aruba
-35,2831,Guadeloupe
-36,2839,Martinique
-37,3010,Colombia
-38,3070,Venezuela
-39,3120,Guyana
-40,3150,Suriname
-41,3170,French Guiana
-42,3310,Ecuador
-43,3330,Peru
-44,3350,Bolivia
-45,3370,Chile
-46,3510,Brazil
-47,3530,Paraguay
-48,3550,Uruguay
-49,3570,Argentina
-50,3720,Falkland Islands
-51,4000,Iceland
-52,4010,Sweden
-53,4031,Svalbard and Jan Mayen Island
-54,4039,Norway
-55,4050,Finland
-56,4091,Faroe Islands
-57,4099,Denmark
-58,4120,United Kingdom
-59,4190,Ireland
-60,4210,Netherlands
-61,4231,Belgium
-62,4239,Luxembourg
-63,4271,Andorra
-64,4272,Monaco
-65,4279,France
-66,4280,Germany
-67,4330,Austria
-68,4350,Former Czechoslovakia
-69,4351,Czech Republic
-70,4359,Slovakia
-71,4370,Hungary
-72,4419,Switzerland
-73,4470,Estonia
-74,4490,Latvia
-75,4510,Lithuania
-76,4550,Poland
-77,4610,Former USSR
-78,4621,Russia
-79,4622,Belarus
-80,4623,Ukraine
-81,4631,Armenia
-82,4632,Azerbaijan
-83,4633,Georgia
-84,4634,Kazakhstan
-85,4635,Kyrgyzstan
-86,4641,Moldova
-87,4642,Tajikistan
-88,4643,Turkmenistan
-89,4644,Uzbekistan
-90,4700,Spain
-91,4710,Portugal
-92,4720,Gibraltar
-93,4730,Malta and Gozo
-94,4751,San Marino
-95,4752,Vatican City
-96,4759,Italy
-97,4790,Former Yugoslavia
-98,4791,Croatia
-99,4792,Slovenia
-100,4793,Bosnia-Hercegovina
-101,4794,Macedonia (Skopje)
-102,4799,Serbia and Montenegro
-103,4801,Serbia
-104,4802,Serbia
-105,4804,Montenegro
-106,4810,Albania
-107,4840,Greece
-108,4850,Romania
-109,4870,Bulgaria
-110,4890,Turkey
-111,4910,Cyprus
-112,5040,Lebanon
-113,5050,Iraq
-114,5070,Iran
-115,5081,Israel
-116,5110,Jordan
-117,5130,Kuwait
-118,5170,Saudi Arabia
-119,5180,Qatar
-120,5200,United Arab Emirates
-121,5210,Yemen (Sana)
-122,5230,Oman
-123,5250,Bahrain
-124,5310,Afghanistan
-125,5330,India
-126,5350,Pakistan
-127,5360,Nepal
-128,5380,Bangladesh
-129,5420,Sri Lanka
-130,5460,Burma
-131,5490,Thailand
-132,5520,Vietnam
-133,5530,Laos
-134,5550,Cambodia
-135,5570,Malaysia
-136,5590,Singapore
-137,5600,Indonesia
-138,5601,East Timor
-139,5610,Brunei
-140,5650,Philippines
-141,5660,Macao (Macau)
-142,5682,Bhutan
-143,5683,Maldives
-144,5700,China
-145,5740,Mongolia
-146,5800,South Korea
-147,5820,Hong Kong
-148,5830,Taiwan
-149,5880,Japan
-150,6021,Australia
-151,6022,Norfolk Island
-152,6023,Cocos (Keeling) Islands
-153,6024,Christmas Island (Indian Ocean)
-154,6029,Heard and McDonald Islands
-155,6040,Papua New Guinea
-156,6141,New Zealand
-157,6142,Cook Islands
-158,6144,Niue
-159,6150,Western Samoa
-160,6223,Solomon Islands
-161,6224,Vanuatu
-162,6225,Pitcairn Island
-163,6226,Kiribati
-164,6412,New Caledonia
-165,6413,Wallis and Futuna
-166,6414,French Polynesia
-167,6810,Marshall Islands
-168,6820,"Micronesia, Federated States"
-169,6830,Palau
-170,6862,Nauru
-171,6863,Fiji
-172,6864,Tonga
-173,7140,Morocco
-174,7210,Algeria
-175,7230,Tunisia
-176,7290,Egypt
-177,7380,Equatorial Guinea
-178,7410,Mauritania
-179,7420,Cameroon
-180,7440,Senegal
-181,7460,Guinea
-182,7470,Sierra Leone
-183,7480,Côte D'Ivoire
-184,7490,Ghana
-185,7500,The Gambia
-186,7510,Niger
-187,7520,Togo
-188,7530,Nigeria
-189,7540,Central African Republic
-190,7550,Gabon
-191,7560,Chad
-192,7580,St Helena
-193,7600,Burkina Faso
-194,7610,Benin
-195,7620,Angola
-196,7630,Congo (Brazzville)
-197,7642,Guinea-Bissau
-198,7644,Sao Tome and Principe
-199,7650,Liberia
-200,7660,Congo (Democratic Republic Of The)
-201,7660,Zaire
-202,7670,Burundi
-203,7700,Somalia
-204,7741,Eritrea
-205,7749,Ethiopia
-206,7770,Djibouti
-207,7780,Uganda
-208,7790,Kenya
-209,7800,Seychelles
-210,7810,British Indian Ocean Territory
-211,7830,Tanzania
-212,7850,Mauritius
-213,7870,Mozambique
-214,7880,Madagascar (Malagasy)
-215,7904,"Reunion (Island, French)"
-216,7905,Fr Southern & Antarctic Lands
-217,7910,South Africa
-218,7920,Namibia
-219,7930,Botswana
-220,7940,Zambia
-221,7950,Swaziland
-222,7960,Zimbabwe
-223,7970,Malawi
-224,7990,Lesotho
+country_code,country_name
+1,World
+1010,Greenland
+1220,Canada
+1610,St Pierre and Miquelon
+2010,Mexico
+2050,Guatemala
+2080,Belize
+2110,El Salvador
+2150,Honduras
+2190,Nicaragua
+2230,Costa Rica
+2250,Panama
+2320,Bermuda
+2360,Bahamas
+2390,Cuba
+2410,Jamaica
+2430,Turks and Caicos Islands
+2440,Cayman Islands
+2450,Haiti
+2470,Dominican Republic
+2481,Anguilla
+2482,British Virgin Islands
+2483,St. Kitts-Nevis
+2484,Antigua & Barbuda
+2485,Montserrat
+2486,Dominica
+2487,St. Lucia
+2488,St. Vincent and The Grenadines
+2489,Grenada
+2720,Barbados
+2740,Trinidad and Tobago
+2771,Netherlands Antilles
+2774,Sint Marteen
+2777,Curaco
+2779,Aruba
+2831,Guadeloupe
+2839,Martinique
+3010,Colombia
+3070,Venezuela
+3120,Guyana
+3150,Suriname
+3170,French Guiana
+3310,Ecuador
+3330,Peru
+3350,Bolivia
+3370,Chile
+3510,Brazil
+3530,Paraguay
+3550,Uruguay
+3570,Argentina
+3720,Falkland Islands
+4000,Iceland
+4010,Sweden
+4031,Svalbard and Jan Mayen Island
+4039,Norway
+4050,Finland
+4091,Faroe Islands
+4099,Denmark
+4120,United Kingdom
+4190,Ireland
+4210,Netherlands
+4231,Belgium
+4239,Luxembourg
+4271,Andorra
+4272,Monaco
+4279,France
+4280,Germany
+4330,Austria
+4350,Former Czechoslovakia
+4351,Czech Republic
+4359,Slovakia
+4370,Hungary
+4419,Switzerland
+4470,Estonia
+4490,Latvia
+4510,Lithuania
+4550,Poland
+4610,Former USSR
+4621,Russia
+4622,Belarus
+4623,Ukraine
+4631,Armenia
+4632,Azerbaijan
+4633,Georgia
+4634,Kazakhstan
+4635,Kyrgyzstan
+4641,Moldova
+4642,Tajikistan
+4643,Turkmenistan
+4644,Uzbekistan
+4700,Spain
+4710,Portugal
+4720,Gibraltar
+4730,Malta and Gozo
+4751,San Marino
+4752,Vatican City
+4759,Italy
+4790,Former Yugoslavia
+4791,Croatia
+4792,Slovenia
+4793,Bosnia-Hercegovina
+4794,Macedonia (Skopje)
+4799,Serbia and Montenegro
+4801,Serbia
+4802,Serbia
+4804,Montenegro
+4810,Albania
+4840,Greece
+4850,Romania
+4870,Bulgaria
+4890,Turkey
+4910,Cyprus
+5040,Lebanon
+5050,Iraq
+5070,Iran
+5081,Israel
+5110,Jordan
+5130,Kuwait
+5170,Saudi Arabia
+5180,Qatar
+5200,United Arab Emirates
+5210,Yemen (Sana)
+5230,Oman
+5250,Bahrain
+5310,Afghanistan
+5330,India
+5350,Pakistan
+5360,Nepal
+5380,Bangladesh
+5420,Sri Lanka
+5460,Burma
+5490,Thailand
+5520,Vietnam
+5530,Laos
+5550,Cambodia
+5570,Malaysia
+5590,Singapore
+5600,Indonesia
+5601,East Timor
+5610,Brunei
+5650,Philippines
+5660,Macao (Macau)
+5682,Bhutan
+5683,Maldives
+5700,China
+5740,Mongolia
+5800,South Korea
+5820,Hong Kong
+5830,Taiwan
+5880,Japan
+6021,Australia
+6022,Norfolk Island
+6023,Cocos (Keeling) Islands
+6024,Christmas Island (Indian Ocean)
+6029,Heard and McDonald Islands
+6040,Papua New Guinea
+6141,New Zealand
+6142,Cook Islands
+6144,Niue
+6150,Western Samoa
+6223,Solomon Islands
+6224,Vanuatu
+6225,Pitcairn Island
+6226,Kiribati
+6412,New Caledonia
+6413,Wallis and Futuna
+6414,French Polynesia
+6810,Marshall Islands
+6820,"Micronesia, Federated States"
+6830,Palau
+6862,Nauru
+6863,Fiji
+6864,Tonga
+7140,Morocco
+7210,Algeria
+7230,Tunisia
+7290,Egypt
+7380,Equatorial Guinea
+7410,Mauritania
+7420,Cameroon
+7440,Senegal
+7460,Guinea
+7470,Sierra Leone
+7480,Côte D'Ivoire
+7490,Ghana
+7500,The Gambia
+7510,Niger
+7520,Togo
+7530,Nigeria
+7540,Central African Republic
+7550,Gabon
+7560,Chad
+7580,St Helena
+7600,Burkina Faso
+7610,Benin
+7620,Angola
+7630,Congo (Brazzville)
+7642,Guinea-Bissau
+7644,Sao Tome and Principe
+7650,Liberia
+7660,Congo (Democratic Republic Of The)
+7660,Zaire
+7670,Burundi
+7700,Somalia
+7741,Eritrea
+7749,Ethiopia
+7770,Djibouti
+7780,Uganda
+7790,Kenya
+7800,Seychelles
+7810,British Indian Ocean Territory
+7830,Tanzania
+7850,Mauritius
+7870,Mozambique
+7880,Madagascar (Malagasy)
+7904,"Reunion (Island, French)"
+7905,Fr Southern & Antarctic Lands
+7910,South Africa
+7920,Namibia
+7930,Botswana
+7940,Zambia
+7950,Swaziland
+7960,Zimbabwe
+7970,Malawi
+7990,Lesotho
