@@ -103,7 +103,6 @@ country_code,country_name
 4794,Macedonia (Skopje)
 4799,Serbia and Montenegro
 4801,Serbia
-4802,Serbia
 4804,Montenegro
 4810,Albania
 4840,Greece
@@ -182,7 +181,7 @@ country_code,country_name
 7440,Senegal
 7460,Guinea
 7470,Sierra Leone
-7480,Côte D'Ivoire
+7480,Ivory Coast
 7490,Ghana
 7500,The Gambia
 7510,Niger
@@ -200,7 +199,6 @@ country_code,country_name
 7644,Sao Tome and Principe
 7650,Liberia
 7660,Congo (Democratic Republic Of The)
-7660,Zaire
 7670,Burundi
 7700,Somalia
 7741,Eritrea
