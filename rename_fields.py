@@ -20,7 +20,7 @@ country_renamer = {#Original Field : Desired Field
 
 # Fields are pulled from agg_temp_df
 temp_renamer = { #Original Field : Desired Field
-    "country" : "country_name",
+    "Country" : "country_name",
     "YEAR_ID" : "year_id",
     "MONTH_ID" : "month_id",
     "AverageTemperature" : "avg_temperature"
