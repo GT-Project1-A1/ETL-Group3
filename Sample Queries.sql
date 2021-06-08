@@ -1,4 +1,4 @@
-/* List out all countries*/
+/* List out all countries */
 select * from country;
 
 /* List all commodities*/
@@ -11,7 +11,7 @@ select * from commercial
 select * from temp
 
 /* Find out how much fish does US import from Greenland each year by weight*/
-Select year_id, c.country_name, ft.fish_type, avg(amount) as averageImportWeight from commercial as com
+Select year_id, c.country_name, ft.fish_type, sum(amount) as TotalImportWeight from commercial as com
 join country as c
 on com.country_code = c.country_code
 join fish_type as ft
@@ -20,7 +20,7 @@ where c.country_name = 'Greenland' and direction = 'US Import' and measure = 'QT
 group by year_id, c.country_name, ft.fish_type
 order by year_id
 
-/* Find out how much fish does US import Salmon from Canada in July 1992 by value.*/
+/* Find out how much Salmon does US import from Canada in July 1992 by value.*/
 Select year_id, month_id, c.country_name, ft.fish_type, sum(amount) as TotalImportValue from commercial as com
 join country as c
 on com.country_code = c.country_code
@@ -58,3 +58,4 @@ join country as c
 on com. country_code = c.country_code
 left join temp as t
 on c.country_name = t.country_name and com.year_id = t.year_id and com.month_id = t.month_id
+where avg_temperature is not null
