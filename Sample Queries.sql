@@ -1,4 +1,4 @@
-/* List out all countries*/
+/* List out all countries */
 select * from country;
 
 /* List all commodities*/
